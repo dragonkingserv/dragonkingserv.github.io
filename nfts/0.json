@@ -1,0 +1,16 @@
+{
+    "description": "DragonKing",
+    "external_url": "https://www.dkswap.com",
+    "image": "https://www.dkswap.com/nfts/images/0.jpg",
+    "name": "DragonKing",
+    "attributes": [
+        {
+            "trait_type": "数量",
+            "value": "2000"
+        },
+        {
+            "trait_type": "全网分红",
+            "value": "600U"
+        }
+    ]
+}
